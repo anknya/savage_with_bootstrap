@@ -1,0 +1,19 @@
+{
+	"name": "font-kelson",
+	"version": "1.0.4",
+	"authors": [
+		"http://fontfabric.com/"
+	],
+	"description": "Kelson Sans is remake of the original Kelson type family – designed by Bruno Mello.",
+	"main": "stylesheet.css",
+	"keywords": [
+		"font",
+		"kelson sans",
+		"bower"
+	],
+	"license": "EULA",
+	"ignore": [
+		"**/.*",
+		"*.pdf"
+	]
+}

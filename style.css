@@ -1,0 +1,92 @@
+
+
+.navbar-dark .navbar-toggler-icon {
+
+	width: 30px;
+	height: 40px;
+    color: rgba(255,255,255,.3);
+    border-color: rgba(255,255,255,.3);
+}
+
+
+.navbar-collapse.collapse {
+	display: block!important;
+  }
+  
+  .navbar-nav>li, .navbar-nav {
+	float: left !important;
+  }
+  
+  .navbar-nav.navbar-right:last-child {
+	margin-right: -15px !important;
+  }
+  
+  .navbar-right {
+	float: right!important;
+  }
+
+  
+ 
+ 
+ 
+ h2 { font-family: ardoise-narrow-std, sans-serif;
+
+	font-weight: 400;
+	
+	font-style: normal;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#contact-area {
+	width: 600px;
+	margin-top: 25px;
+}
+
+#contact-area input, #contact-area textarea {
+	padding: 10px;
+	width: 471px;
+	font-family: Helvetica, sans-serif;
+	font-size: 1.4em;
+	margin: 0px 0px 10px 0px;
+	border: none
+}
+
+#contact-area textarea {
+	height: 250px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #900;
+}
+
+#contact-area input.submit-button {
+	width: 100px;
+  float: right;
+  margin-top: 13px;
+  margin-right: 0px;
+  background-color: #18234D;
+  color: #ffffff;
+}
+
+
+
+label {
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+	width: 100px;
+	padding-top: 5px;
+	font-size: 1.4em;
+}
